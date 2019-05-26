@@ -1,2 +1,2 @@
 # BigDataAssignment
-Have downloaded the notebook. looking at null values - Tim OD 25 May 1625 AEST.
+Have downloaded the notebook. outliers - Tim OD 26 May, 1030 AEST.
