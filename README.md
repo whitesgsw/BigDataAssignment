@@ -1,2 +1,2 @@
 # BigDataAssignment
-Have downloaded the notebook. outliers - Tim OD 26 May, 1030 AEST.
+Updated cells sent via group forum to all, for inclusion in the notebook with Sean. Tim 21:20 AEST
